@@ -22,4 +22,5 @@ requests==2.3.0
 # SQLAlchemy
 #   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
 #   Changelog: http://docs.sqlalchemy.org/en/latest/changelog/
+#   Stakeholder: Tec
 sqlalchemy==0.9.5
