@@ -1,0 +1,4 @@
+# Requests
+#   Changelog: https://pypi.python.org/pypi/requests/
+#   Stakeholder: Tec
+requests==2.3.0
