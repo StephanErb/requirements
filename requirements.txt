@@ -1,7 +1,10 @@
-# Requests
-#   Changelog: https://pypi.python.org/pypi/requests/
+# Django
+#   Changelog: https://www.djangoproject.com/weblog/
 #   Stakeholder: Tec
-requests==2.3.0
+django==1.6.5
+django==1.5.8   # rq.filter: >=1.5, <1.6
+django==1.4.13  # rq.filter: >=1.4, <1.5
+
 
 # Paramiko
 #   Changelog: http://paramiko-www.readthedocs.org/changelog.html
@@ -11,9 +14,12 @@ paramiko==1.13.1    # rq.filter: >=1.13, <1.14
 paramiko==1.12.4    # rq.filter: >=1.12, <1.13
 paramiko==1.11.6    # rq.filter: >=1.11, <1.12
 
-# Django
-#   Changelog: https://www.djangoproject.com/weblog/
+# Requests
+#   Changelog: https://pypi.python.org/pypi/requests/
 #   Stakeholder: Tec
-django==1.6.5
-django==1.5.8   # rq.filter: >=1.5, <1.6
-django==1.4.13  # rq.filter: >=1.4, <1.5
+requests==2.3.0
+
+# SQLAlchemy
+#   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
+#   Changelog: http://docs.sqlalchemy.org/en/latest/changelog/
+sqlalchemy==0.9.5
