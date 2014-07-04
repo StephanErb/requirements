@@ -1,4 +1,6 @@
 venv/
+.pkg_cache
+.pkg_test_venv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
