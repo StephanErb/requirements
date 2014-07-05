@@ -1,17 +1,31 @@
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
-#   Stakeholder: Tec
 Django==1.6.5
-Django==1.5.8   # rq.filter: >=1.5, <1.6
 
 
 # Requests
 #   Changelog: https://pypi.python.org/pypi/requests/
-#   Stakeholder: Tec
 requests==2.3.0
 
-# SQLAlchemy
-#   CVE: http://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=sqlalchemy
-#   Changelog: http://docs.sqlalchemy.org/en/latest/changelog/
-#   Stakeholder: Tec
-sqlalchemy==0.9.5
+
+# Devpi
+#   Changelog: http://doc.devpi.net/latest/changelog.html
+devpi==1.2.1
+devpi-client==1.2.2
+devpi-server==1.2.2
+devpi-common==1.2.2
+
+
+# Fabric
+#   Changelog: http://www.fabfile.org/changelog.html
+Fabric==1.9.0
+
+
+# Supervisor
+#   Changelog: http://supervisord.org/changes.html
+supervisor==3.0.0
+
+
+# Marathon
+#   Changelog: https://thefactory.github.io/marathon-python/
+marathon==0.2.5
