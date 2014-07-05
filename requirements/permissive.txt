@@ -11,9 +11,9 @@ requests==2.3.0
 # Devpi
 #   Changelog: http://doc.devpi.net/latest/changelog.html
 devpi==1.2.1
+devpi-common==1.2
 devpi-client==1.2.2
 devpi-server==1.2.2
-devpi-common==1.2.2
 
 
 # Fabric
