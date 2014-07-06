@@ -36,3 +36,7 @@ scikit-learn==0.14.1
 # Pandas
 #   Changelog: http://pandas.pydata.org/pandas-docs/stable/whatsnew.html
 pandas==0.14.0
+
+# Pip
+#   Changelog: https://pip.pypa.io/en/latest/news.html
+pip==1.5.6
