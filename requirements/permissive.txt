@@ -12,10 +12,10 @@ requests==2.3.0
 
 # Devpi
 #   Changelog: http://doc.devpi.net/latest/changelog.html
-devpi==1.2.1
-devpi-common==1.2
-devpi-client==1.2.2
-devpi-server==1.2.2
+devpi==2.0.0
+devpi-common==2.0.0
+devpi-client==2.0.0
+devpi-server==2.0.0
 
 # Fabric
 #   Changelog: http://www.fabfile.org/changelog.html
@@ -31,7 +31,7 @@ marathon==0.2.5
 
 # Scikit learn
 #   Changelog: http://scikit-learn.org/stable/whats_new.html
-scikit-learn==0.14.1
+scikit-learn==0.15.0
 
 # Pandas
 #   Changelog: http://pandas.pydata.org/pandas-docs/stable/whatsnew.html
