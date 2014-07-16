@@ -31,6 +31,10 @@ supervisor==3.0.0
 #   Changelog: https://thefactory.github.io/marathon-python/
 marathon==0.2.5
 
+# Numpy
+#   Changelog: http://docs.scipy.org/doc/numpy/release.html
+numpy==1.8.1
+
 # Scikit learn
 #   Changelog: http://scikit-learn.org/stable/whats_new.html
 scikit-learn==0.15.0
