@@ -25,7 +25,7 @@ Fabric==1.9.0
 
 # Supervisor
 #   Changelog: http://supervisord.org/changes.html
-supervisor==3.0.0
+supervisor==3.1.0
 
 # Marathon Client
 #   Changelog: https://thefactory.github.io/marathon-python/
