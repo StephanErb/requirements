@@ -12,16 +12,16 @@ requests==2.3.0
 
 # Devpi
 #   Changelog: http://doc.devpi.net/latest/changelog.html
-devpi==2.0.0
+devpi==2.0.1
 devpi-common==2.0.0
-devpi-client==2.0.0
-devpi-server==2.0.1
-devpi-web==2.0.0
+devpi-client==2.0.1
+devpi-server==2.0.2
+devpi-web==2.0.1
 
 
 # Fabric
 #   Changelog: http://www.fabfile.org/changelog.html
-Fabric==1.9.0
+Fabric==1.9.1
 
 # Supervisor
 #   Changelog: http://supervisord.org/changes.html
@@ -29,7 +29,7 @@ supervisor==3.1.0
 
 # Marathon Client
 #   Changelog: https://thefactory.github.io/marathon-python/
-marathon==0.3.1
+marathon==0.3.2
 
 # Numpy
 #   Changelog: http://docs.scipy.org/doc/numpy/release.html
