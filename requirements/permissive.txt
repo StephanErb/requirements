@@ -25,7 +25,7 @@ Fabric==1.9.1
 
 # Supervisor
 #   Changelog: http://supervisord.org/changes.html
-supervisor==3.1.0
+supervisor==3.1.1
 
 # Marathon Client
 #   Changelog: https://thefactory.github.io/marathon-python/
@@ -33,7 +33,7 @@ marathon==0.3.2
 
 # Numpy
 #   Changelog: http://docs.scipy.org/doc/numpy/release.html
-numpy==1.8.1
+numpy==1.8.2
 
 # Scikit learn
 #   Changelog: http://scikit-learn.org/stable/whats_new.html
