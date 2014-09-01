@@ -15,7 +15,7 @@ requests==2.4.0
 devpi==2.0.1
 devpi-common==2.0.0
 devpi-client==2.0.1
-devpi-server==2.0.3
+devpi-server==2.0.4
 devpi-web==2.0.1
 
 
