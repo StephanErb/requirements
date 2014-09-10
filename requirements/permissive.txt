@@ -1,6 +1,6 @@
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
-Django==1.6.6
+Django==1.7
 
 # Django Auth LDAP
 #   Changelog: http://pythonhosted.org/django-auth-ldap/changes.html
@@ -8,24 +8,24 @@ django-auth-ldap==1.2.1
 
 # Requests
 #   Changelog: https://pypi.python.org/pypi/requests/
-requests==2.4.0
+requests==2.4.1
 
 # Devpi
 #   Changelog: http://doc.devpi.net/latest/changelog.html
-devpi==2.0.1
-devpi-common==2.0.0
-devpi-client==2.0.1
-devpi-server==2.0.4
-devpi-web==2.0.1
+devpi==2.0.3
+devpi-common==2.0.2
+devpi-client==2.0.2
+devpi-server==2.0.6
+devpi-web==2.1.0
 
 
 # Fabric
 #   Changelog: http://www.fabfile.org/changelog.html
-Fabric==1.9.1
+Fabric==1.10.0
 
 # Supervisor
 #   Changelog: http://supervisord.org/changes.html
-supervisor==3.1.1
+supervisor==3.1.2
 
 # Marathon Client
 #   Changelog: https://thefactory.github.io/marathon-python/
@@ -33,11 +33,11 @@ marathon==0.4.0
 
 # Numpy
 #   Changelog: http://docs.scipy.org/doc/numpy/release.html
-numpy==1.8.2
+numpy==1.9.0
 
 # Scikit learn
 #   Changelog: http://scikit-learn.org/stable/whats_new.html
-scikit-learn==0.15.1
+scikit-learn==0.15.2
 
 # Pandas
 #   Changelog: http://pandas.pydata.org/pandas-docs/stable/whatsnew.html
