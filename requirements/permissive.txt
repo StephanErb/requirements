@@ -16,7 +16,7 @@ devpi==2.0.3
 devpi-common==2.0.2
 devpi-client==2.0.2
 devpi-server==2.0.6
-devpi-web==2.1.0
+devpi-web==2.1.1
 
 
 # Fabric
