@@ -15,7 +15,7 @@ requests==2.4.3
 devpi==2.1.0
 devpi-common==2.0.3
 devpi-client==2.0.3
-devpi-server==2.1.0
+devpi-server==2.1.1
 devpi-web==2.2.0
 
 
@@ -29,7 +29,7 @@ supervisor==3.1.2
 
 # Marathon Client
 #   Changelog: https://thefactory.github.io/marathon-python/
-marathon==0.6.1
+marathon==0.6.3
 
 # Numpy
 #   Changelog: http://docs.scipy.org/doc/numpy/release.html
