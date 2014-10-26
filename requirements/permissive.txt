@@ -1,6 +1,6 @@
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
-Django==1.7
+Django==1.7.1
 
 # Django Auth LDAP
 #   Changelog: http://pythonhosted.org/django-auth-ldap/changes.html
