@@ -50,3 +50,6 @@ pip==1.5.6
 # Sentry
 #   Changelog: http://sentry.readthedocs.org/en/latest/changelog/index.html
 sentry==6.4.4
+
+# Ansible
+ansible==1.7.2
