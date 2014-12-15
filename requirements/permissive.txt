@@ -29,7 +29,7 @@ supervisor==3.1.3
 
 # Marathon Client
 #   Changelog: https://thefactory.github.io/marathon-python/
-marathon==0.6.8
+marathon==0.6.9
 
 # Numpy
 #   Changelog: http://docs.scipy.org/doc/numpy/release.html
@@ -41,7 +41,7 @@ scikit-learn==0.15.2
 
 # Pandas
 #   Changelog: http://pandas.pydata.org/pandas-docs/stable/whatsnew.html
-pandas==0.15.1
+pandas==0.15.2
 
 # Pip
 #   Changelog: https://pip.pypa.io/en/latest/news.html
@@ -52,4 +52,4 @@ pip==1.5.6
 sentry==6.4.4
 
 # Ansible
-ansible==1.8.1
+ansible==1.8.2
