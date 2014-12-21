@@ -21,7 +21,7 @@ devpi-web==2.2.2
 
 # Fabric
 #   Changelog: http://www.fabfile.org/changelog.html
-Fabric==1.10.0
+Fabric==1.10.1
 
 # Supervisor
 #   Changelog: http://supervisord.org/changes.html
