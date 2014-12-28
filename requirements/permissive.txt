@@ -8,7 +8,7 @@ django-auth-ldap==1.2.3
 
 # Requests
 #   Changelog: https://pypi.python.org/pypi/requests/
-requests==2.5.0
+requests==2.5.1
 
 # Devpi
 #   Changelog: http://doc.devpi.net/latest/changelog.html
@@ -45,7 +45,7 @@ pandas==0.15.2
 
 # Pip
 #   Changelog: https://pip.pypa.io/en/latest/news.html
-pip==1.5.6
+pip==6.0.3
 
 # Sentry
 #   Changelog: http://sentry.readthedocs.org/en/latest/changelog/index.html
