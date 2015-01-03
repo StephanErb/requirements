@@ -10,7 +10,3 @@ __Current workflow:__
 * Requirement files updated via pull-requests
 * Internal build server automatically populates the corresponding internal package index
 
-__Ideas worth evaluating:__
-* Instead of one req.txt per licence category we could use one requirements file per internal team or project
-
-
