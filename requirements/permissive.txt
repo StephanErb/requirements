@@ -2,10 +2,6 @@
 #   Changelog: https://www.djangoproject.com/weblog/
 Django==1.7.1
 
-# Django Auth LDAP
-#   Changelog: http://pythonhosted.org/django-auth-ldap/changes.html
-django-auth-ldap==1.2.3
-
 # Requests
 #   Changelog: https://pypi.python.org/pypi/requests/
 requests==2.5.1
@@ -18,18 +14,9 @@ devpi-client==2.0.4
 devpi-server==2.1.3
 devpi-web==2.2.2
 
-
-# Fabric
-#   Changelog: http://www.fabfile.org/changelog.html
-Fabric==1.10.1
-
 # Supervisor
 #   Changelog: http://supervisord.org/changes.html
 supervisor==3.1.3
-
-# Marathon Client
-#   Changelog: https://thefactory.github.io/marathon-python/
-marathon==0.6.10
 
 # Numpy
 #   Changelog: http://docs.scipy.org/doc/numpy/release.html
@@ -53,3 +40,7 @@ sentry==6.4.4
 
 # Ansible
 ansible==1.8.2
+
+# Fabric
+#   Changelog: http://www.fabfile.org/changelog.html
+Fabric==1.10.1
