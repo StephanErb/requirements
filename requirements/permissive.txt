@@ -1,6 +1,6 @@
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
-Django==1.8.1
+Django==1.8.2
 
 # Requests
 #   Changelog: https://pypi.python.org/pypi/requests/
@@ -9,10 +9,10 @@ requests==2.7.0
 # Devpi
 #   Changelog: http://doc.devpi.net/latest/changelog.html
 devpi==2.1.0
-devpi-common==2.0.5
-devpi-client==2.1.0
-devpi-server==2.1.5
-devpi-web==2.2.3
+devpi-common==2.0.6
+devpi-client==2.2.0
+devpi-server==2.2.1
+devpi-web==2.3.0
 
 # Supervisor
 #   Changelog: http://supervisord.org/changes.html
@@ -32,11 +32,11 @@ pandas==0.16.1
 
 # Pip
 #   Changelog: https://pip.pypa.io/en/latest/news.html
-pip==6.1.1
+pip==7.0.0
 
 # Sentry
 #   Changelog: http://sentry.readthedocs.org/en/latest/changelog/index.html
-sentry==7.4.3
+sentry==7.5.0
 
 # Ansible
 ansible==1.9.1
