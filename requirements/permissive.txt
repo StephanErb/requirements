@@ -32,7 +32,7 @@ pandas==0.16.1
 
 # Pip
 #   Changelog: https://pip.pypa.io/en/latest/news.html
-pip==7.0.1
+pip==7.0.3
 
 # Sentry
 #   Changelog: http://sentry.readthedocs.org/en/latest/changelog/index.html
