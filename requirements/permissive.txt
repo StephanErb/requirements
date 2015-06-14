@@ -36,7 +36,7 @@ pip==7.0.3
 
 # Sentry
 #   Changelog: http://sentry.readthedocs.org/en/latest/changelog/index.html
-sentry==7.5.3
+sentry==7.5.4
 
 # Ansible
 ansible==1.9.1
