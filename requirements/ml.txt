@@ -1,0 +1,11 @@
+# Numpy
+#   Changelog: http://docs.scipy.org/doc/numpy/release.html
+numpy==1.9.2
+
+# Scikit learn
+#   Changelog: http://scikit-learn.org/stable/whats_new.html
+scikit-learn==0.16.1
+
+# Pandas
+#   Changelog: http://pandas.pydata.org/pandas-docs/stable/whatsnew.html
+pandas==0.16.2
