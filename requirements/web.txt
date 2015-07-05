@@ -1,0 +1,7 @@
+# Django
+#   Changelog: https://www.djangoproject.com/weblog/
+Django==1.8.2
+
+# Requests
+#   Changelog: https://pypi.python.org/pypi/requests/
+requests==2.7.0
