@@ -2,6 +2,10 @@
 #   Changelog: https://www.djangoproject.com/weblog/
 Django==1.8.2
 
+# Gunicorn
+#   Changelog: http://docs.gunicorn.org/en/19.3/news.html
+gunicorn==19.3.0
+
 # Requests
 #   Changelog: https://pypi.python.org/pypi/requests/
 requests==2.7.0
