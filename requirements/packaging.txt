@@ -7,4 +7,4 @@ devpi-web==2.3.0
 
 # Pip
 #   Changelog: https://pip.pypa.io/en/latest/news.html
-pip==7.0.3
+pip==7.1.0
