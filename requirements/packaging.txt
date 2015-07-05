@@ -8,3 +8,7 @@ devpi-web==2.3.0
 # Pip
 #   Changelog: https://pip.pypa.io/en/latest/news.html
 pip==7.1.0
+
+# Setuptools
+#   Changelog: https://pythonhosted.org/setuptools/history.html
+setuptools==18.0.1
