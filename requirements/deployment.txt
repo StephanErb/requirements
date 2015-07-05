@@ -1,0 +1,9 @@
+# Supervisor
+#   Changelog: http://supervisord.org/changes.html
+supervisor==3.1.3
+
+# Ansible
+#   Changelog: https://github.com/ansible/ansible/blob/devel/CHANGELOG.md
+ansible==1.9.1
+
+
