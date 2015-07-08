@@ -1,6 +1,6 @@
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
-Django==1.8.2
+Django==1.8.3
 
 # Gunicorn
 #   Changelog: http://docs.gunicorn.org/en/19.3/news.html
