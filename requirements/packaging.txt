@@ -12,3 +12,7 @@ pip==7.1.0
 # Setuptools
 #   Changelog: https://pythonhosted.org/setuptools/history.html
 setuptools==18.0.1
+
+# Setuptools SCM
+#   https://github.com/pypa/setuptools_scm/blob/master/CHANGELOG.rst
+setuptools_scm==1.5.5
