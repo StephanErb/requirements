@@ -1,6 +1,6 @@
 # Numpy
 #   Changelog: http://docs.scipy.org/doc/numpy/release.html
-numpy==1.10.2
+numpy==1.10.4
 
 # Scikit learn
 #   Changelog: http://scikit-learn.org/stable/whats_new.html
