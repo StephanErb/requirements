@@ -4,8 +4,8 @@ numpy==1.10.4
 
 # Scikit learn
 #   Changelog: http://scikit-learn.org/stable/whats_new.html
-scikit-learn==0.17
+scikit-learn==0.17.1
 
 # Pandas
 #   Changelog: http://pandas.pydata.org/pandas-docs/stable/whatsnew.html
-pandas==0.17.1
+pandas==0.18.0
