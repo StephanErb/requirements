@@ -1,14 +1,14 @@
 # Pip
 #   Changelog: https://pip.pypa.io/en/latest/news.html
-pip==8.0.2
+pip==8.1.1
 
 # Setuptools
 #   Changelog: https://pythonhosted.org/setuptools/history.html
-setuptools==19.6
+setuptools==20.3.1
 
 # Virtualenv
 #   Changelog: https://virtualenv.pypa.io/en/latest/changes.html
-virtualenv==14.0.1
+virtualenv==15.0.1
 
 # Setuptools SCM
 #   https://github.com/pypa/setuptools_scm/blob/master/CHANGELOG.rst
