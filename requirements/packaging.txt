@@ -4,7 +4,7 @@ pip==8.1.1
 
 # Setuptools
 #   Changelog: https://pythonhosted.org/setuptools/history.html
-setuptools==20.5
+setuptools==20.6.4
 
 # Virtualenv
 #   Changelog: https://virtualenv.pypa.io/en/latest/changes.html
