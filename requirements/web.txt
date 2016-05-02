@@ -1,6 +1,6 @@
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
-Django==1.9.5
+Django==1.9.6
 
 # Gunicorn
 #   Changelog: http://docs.gunicorn.org/en/stable/news.html
