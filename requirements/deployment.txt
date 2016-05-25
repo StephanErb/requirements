@@ -4,4 +4,4 @@ supervisor==3.3.0
 
 # Ansible
 #   Changelog: https://github.com/ansible/ansible/blob/devel/CHANGELOG.md
-ansible==2.0.2.0
+ansible==2.1.0.0
