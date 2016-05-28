@@ -8,7 +8,7 @@ setuptools==21.2.1
 
 # Virtualenv
 #   Changelog: https://virtualenv.pypa.io/en/latest/changes.html
-virtualenv==15.0.1
+virtualenv==15.0.2
 
 # Setuptools SCM
 #   https://github.com/pypa/setuptools_scm/blob/master/CHANGELOG.rst
