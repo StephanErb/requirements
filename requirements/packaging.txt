@@ -12,4 +12,4 @@ virtualenv==15.0.2
 
 # Setuptools SCM
 #   https://github.com/pypa/setuptools_scm/blob/master/CHANGELOG.rst
-setuptools-scm==1.11.0
+setuptools-scm==1.11.1
