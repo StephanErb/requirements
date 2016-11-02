@@ -1,6 +1,6 @@
 # Pip
 #   Changelog: https://pip.pypa.io/en/latest/news.html
-pip==8.1.2
+pip==9.0.0
 
 # Setuptools
 #   Changelog: https://github.com/pypa/setuptools/blob/master/CHANGES.rst
