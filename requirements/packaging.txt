@@ -4,7 +4,7 @@ pip==9.0.1
 
 # Setuptools
 #   Changelog: https://github.com/pypa/setuptools/blob/master/CHANGES.rst
-setuptools==30.1.0
+setuptools==30.2.0
 
 # Virtualenv
 #   Changelog: https://virtualenv.pypa.io/en/latest/changes.html
