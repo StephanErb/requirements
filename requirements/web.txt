@@ -4,7 +4,7 @@ Django==1.10.6
 
 # Gunicorn
 #   Changelog: http://docs.gunicorn.org/en/stable/news.html
-gunicorn==19.6.0
+gunicorn==19.7.0
 
 # Requests
 #   Changelog: https://pypi.python.org/pypi/requests/
