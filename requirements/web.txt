@@ -1,11 +1,12 @@
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
-Django==1.10.1
+Django==1.11
+
 
 # Gunicorn
 #   Changelog: http://docs.gunicorn.org/en/stable/news.html
-gunicorn==19.6.0
+gunicorn==19.7.1
 
 # Requests
 #   Changelog: https://pypi.python.org/pypi/requests/
-requests==2.11.1
+requests==2.13.0
