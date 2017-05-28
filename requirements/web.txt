@@ -9,4 +9,4 @@ gunicorn==19.7.1
 
 # Requests
 #   Changelog: https://pypi.python.org/pypi/requests/
-requests==2.16.4
+requests==2.16.5
