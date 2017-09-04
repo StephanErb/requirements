@@ -1,6 +1,6 @@
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
-Django==1.11
+Django==1.11.4
 
 
 # Gunicorn
@@ -9,4 +9,4 @@ gunicorn==19.7.1
 
 # Requests
 #   Changelog: https://pypi.python.org/pypi/requests/
-requests==2.13.0
+requests==2.18.4
