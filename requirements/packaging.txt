@@ -4,7 +4,7 @@ pip==9.0.1
 
 # Setuptools
 #   Changelog: https://github.com/pypa/setuptools/blob/master/CHANGES.rst
-setuptools==38.2.4
+setuptools==38.5.1
 
 # Virtualenv
 #   Changelog: https://virtualenv.pypa.io/en/latest/changes.html
@@ -13,7 +13,7 @@ virtualenv==15.1.0
 
 # Setuptools SCM
 #   https://github.com/pypa/setuptools_scm/blob/master/CHANGELOG.rst
-setuptools-scm==1.15.6
+setuptools-scm==1.15.7
 
 # Pip Tools
 #   https://github.com/nvie/pip-tools/blob/master/CHANGELOG.md
