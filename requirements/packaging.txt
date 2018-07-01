@@ -1,20 +1,20 @@
 # Pip
 #   Changelog: https://pip.pypa.io/en/latest/news.html
-pip==10.0.0
+pip==10.0.1
 
 # Setuptools
 #   Changelog: https://github.com/pypa/setuptools/blob/master/CHANGES.rst
-setuptools==39.0.1
+setuptools==39.2.0
 
 # Virtualenv
 #   Changelog: https://virtualenv.pypa.io/en/latest/changes.html
-virtualenv==15.2.0
+virtualenv==16.0.0
 
 
 # Setuptools SCM
 #   https://github.com/pypa/setuptools_scm/blob/master/CHANGELOG.rst
-setuptools-scm==2.0.0
+setuptools-scm==2.1.0
 
 # Pip Tools
 #   https://github.com/nvie/pip-tools/blob/master/CHANGELOG.md
-pip-tools==2.0.1
+pip-tools==2.0.2
