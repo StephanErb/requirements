@@ -1,6 +1,6 @@
 # Django
 #   Changelog: https://www.djangoproject.com/weblog/
-Django==3.0.5
+Django==3.0.6
 
 
 # Gunicorn
