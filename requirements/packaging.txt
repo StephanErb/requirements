@@ -13,7 +13,7 @@ virtualenv==20.0.21
 
 # Setuptools SCM
 #   https://github.com/pypa/setuptools_scm/blob/master/CHANGELOG.rst
-setuptools-scm==4.0.0
+setuptools-scm==4.1.0
 
 # Pip Tools
 #   https://github.com/nvie/pip-tools/blob/master/CHANGELOG.md
