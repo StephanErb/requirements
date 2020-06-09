@@ -17,4 +17,4 @@ setuptools-scm==4.1.2
 
 # Pip Tools
 #   https://github.com/nvie/pip-tools/blob/master/CHANGELOG.md
-pip-tools==5.2.0
+pip-tools==5.2.1
